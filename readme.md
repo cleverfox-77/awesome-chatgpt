@@ -219,6 +219,7 @@
 
 ## Bots
 
+- [OctaDezx](https://octadezx.com) - Omnichannel customer care and phone voice dispatch agent with native [MCP Server](https://octadezx.com/ai-agent-mcp-server).
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot.
 - [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - Telegram bot.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
